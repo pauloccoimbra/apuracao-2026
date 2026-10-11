@@ -5,4 +5,4 @@ Este repositório existe só para que o endereço antigo https://pauloccoimbra.g
 - `index.html` redireciona a raiz.
 - `404.html` redireciona qualquer subendereço antigo (por exemplo `.../apuracao-2026/painel.html` vira `.../apuracao-2026-primeiro-turno/painel.html`), mantendo parâmetros e âncoras.
 
-Não há conteúdo próprio. Não ligue este repositório ao Zenodo.
+Não há conteúdo próprio.
